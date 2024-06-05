@@ -1,4 +1,4 @@
-# Early Detection of Alzheimer's Disease Using CNN on Brain MRI
+# Classification of Alzheimer's Disease Model Based On Activation Functions Against Optimizers In CNN
 
 This
 research is initiated to compare the impact of different activation functions between
